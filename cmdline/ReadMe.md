@@ -5,4 +5,9 @@ Byte3: After that, I used the diff command to check the differences between the 
 Byte4: I ran the command find /path -name cup.txt to see where the .txt file was.<br>
 Byte5: I copied the file into the /tmp folder, compiled it there, and then ran ./a.out {sdi} to find the word we needed.<br>
 Byte6: Lastly, I unzipped the file in the /tmp/ directory before doing anything else.<br>
+Byte7:We checked out the tar command and ran tar -zxf ...gz to extract files into our earlier folder.<br>
+Byte8: Then, we opened vim to see what’s inside the file. Always cool to explore!<br>
+Byte9: To access the file with its weird name, we used ./- instead of cd -.<br>
+Byte10: Next, we piped sort .txt | head to list the first 10 lines in alphabetical order.<br>
+Byte11: Finally, we ran sort .txt | uniq -c | sort -nr | head -n 1 after checking --help to find the most common line. Pretty neat!
 
