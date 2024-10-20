@@ -1,5 +1,5 @@
-Byte0: I kept hitting the Tab key until we got to the treasury.
-Byte1: Then, I ran the man command.
+Byte0: I kept hitting the Tab key until we got to the treasury. \n
+Byte1: Then, I ran the man command. 
 Byte2: With the grep command, I found the word we needed right near the word we were searching for.
 Byte3: After that, I used the diff command to check the differences between the files for the word that had changed.
 Byte4: I ran the command find /path -name cup.txt to see where the .txt file was.
